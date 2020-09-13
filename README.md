@@ -2,6 +2,8 @@
 
 This project provides a basic boilerplate and some examples of how to use Protractor with Jasmine (Typescript)
 
+![Output sample](https://github.com/HiagoVLB/Protractor-Jamine_TS/blob/master/Demo.gif)
+
 ## What's being used on this Project?
 
 Bellow it is listed what is being used in this project:
