@@ -1,0 +1,9 @@
+{
+  "sleepTime": {
+    "fast": 300,
+    "average": 600,
+    "slow": 1000,
+    "pageLoad": 2500,
+    "test": 8000
+  }
+}
