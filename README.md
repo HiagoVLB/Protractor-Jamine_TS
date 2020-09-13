@@ -153,7 +153,7 @@ protractor conf.js
 
 ## More Information
 
-Consider reading topics below for more information:
+Consider reading topics bellow for more information:
 
 **[Typescript](https://www.typescriptlang.org/docs)**</br>
 **[TSCongig](https://www.typescriptlang.org/tsconfig)**</br>
