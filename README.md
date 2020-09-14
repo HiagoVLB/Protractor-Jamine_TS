@@ -54,7 +54,7 @@ npm install -g typescript
 
 #### Create Tsconfig file
 
-Run following command to create Tsconfig:
+Run the following command to create Tsconfig:
 
 ```sh
 tsc --init
