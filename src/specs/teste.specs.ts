@@ -14,7 +14,7 @@ describe("protractor with typescript typings", () => {
     expect(greeting.getText()).toEqual("Hello Julie!");
   });
 
-  it("should click on create sample projectin StackBlitsz", () => {
+  it("should click on Resource in topbar", () => {
     browser.get("https://angular.io/start");
     utility.Utilities.clickOnText("span", "Resource");
   });
