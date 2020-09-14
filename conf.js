@@ -2,7 +2,7 @@
 exports.config = {
   directConnect: true,
   allScriptsTimeout: 11000,
-  //   baseUrl: "http://ctca-dev.incra.gov.br",
+  //   baseUrl: "",
 
   // Capabilities to be passed to the webdriver instance.
   capabilities: {
