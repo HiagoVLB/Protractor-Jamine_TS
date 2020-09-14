@@ -43,6 +43,14 @@ Use npm to install Protractor globally (omit the -g if you’d prefer not to ins
 npm install -g protractor
 ```
 
+#### Typescript
+
+Use npm to install Typescript globally (omit the -g if you’d prefer not to install globally):
+
+```sh
+npm install -g typescript
+```
+
 #### TS Node
 
 Use npm to install TS Node globally (omit the -g if you’d prefer not to install globally):
@@ -61,13 +69,6 @@ npm install --save-dev @types/node
 
 This what makes your IDE (Visual Code, Webstorm ...) recognize commands from TS Node
 
-#### Typescript
-
-Use npm to install Typescript globally (omit the -g if you’d prefer not to install globally):
-
-```sh
-npm install -g typescript
-```
 
 #### Jasmine
 
