@@ -48,7 +48,7 @@ npm install -g protractor
 Use npm to install TS Node globally (omit the -g if you’d prefer not to install globally):
 
 ```sh
-npm install --save-dev @types/node
+npm install -g ts-node
 ```
 
 #### TS Node - Types
