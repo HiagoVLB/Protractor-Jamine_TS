@@ -51,6 +51,15 @@ Use npm to install Typescript globally (omit the -g if you’d prefer not to ins
 npm install -g typescript
 ```
 
+
+#### Create Tsconfig file
+
+Run following command to create Tsconfig:
+
+```sh
+tsc --init
+```
+
 #### TS Node
 
 Use npm to install TS Node globally (omit the -g if you’d prefer not to install globally):
